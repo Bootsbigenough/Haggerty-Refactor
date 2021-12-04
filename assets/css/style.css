@@ -23,7 +23,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* switched all header elements to header nav */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -112,7 +112,7 @@ p {
     color: #ffffff;
 }
 
-
+/* consolidated all imgs to .content-item */
 .content-item img {
     max-height: 200px;
 }
