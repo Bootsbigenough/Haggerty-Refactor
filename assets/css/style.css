@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* switched header from class to section */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -96,13 +96,13 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* consolidated 3 img into benefit-item img */
 .benefit-item img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Consolidated 3 different items */
 .content-item {
     margin-bottom: 20px;
     padding: 50px;
@@ -121,7 +121,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* switched footer from class to section */
 footer {
     padding: 30px;
     clear: both;
